@@ -30,8 +30,6 @@ class AttendanceController
 
             // them vao bang diem danh
 
-
-
         }
     }
 }
